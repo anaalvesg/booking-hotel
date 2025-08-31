@@ -5,13 +5,13 @@ document.querySelector("#confirm-button").addEventListener("click", function () 
         msg+= 'Nome inválido'
     }
 
-    if (document.querySelector("#cpf").value.length != 11 && !isNaN(document.querySelector("#cpf").value)) {
+    if (document.querySelector("#cpf").value.length != 11 || isNaN(document.querySelector("#cpf").value)) {
         msg+= '\n CPF inválido'
     }
 
-    // if (document.querySelector("#birth-date").value) {
-
-    // }
+    if (document.querySelector("#birth-date").value == null) {
+        msg+= '\n Data de nascimento inválida'
+    }
 
     if (document.querySelector("#password").value.length < 6) {
         msg+= '\n Senha fraca'
