@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\Documents\\GitHub\\booking-hotel\\api\\api.csproj": {}
+    "C:\\Users\\Administrador\\Documents\\GitHub\\booking-hotel\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\Documents\\GitHub\\booking-hotel\\api\\api.csproj": {
+    "C:\\Users\\Administrador\\Documents\\GitHub\\booking-hotel\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\Documents\\GitHub\\booking-hotel\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\GitHub\\booking-hotel\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\arthu\\Documents\\GitHub\\booking-hotel\\api\\api.csproj",
-        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\Documents\\GitHub\\booking-hotel\\api\\obj\\",
+        "projectPath": "C:\\Users\\Administrador\\Documents\\GitHub\\booking-hotel\\api\\api.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrador\\Documents\\GitHub\\booking-hotel\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
