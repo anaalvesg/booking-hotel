@@ -17,7 +17,7 @@ namespace api.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseNpgsql("Host=localhost;Database=booking-bd;Username=postgres;Password=aquitem");
+                optionsBuilder.UseNpgsql("Host=localhost;Database=booking-bd;Username=postgres;Password=chanbsoo");
             }
         }
 
