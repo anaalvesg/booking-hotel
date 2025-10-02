@@ -1,0 +1,21 @@
+# Compilados do .NET
+bin/
+obj/
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.user
+
+# Logs e temporários
+*.log
+*.cache
+*.tmp
+.DS_Store
+
+# Node.js (se tiver frontend com JS)
+node_modules/
+
+# Build e dist
+dist/
+wwwroot/
